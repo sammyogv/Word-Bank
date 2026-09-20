@@ -5,5 +5,6 @@ export interface WordBank {
   word: string;
   phoneticTranscription: string;
   meaning: string;
+  exampleSentence?: string;
   createdAt: Timestamp;
 }
