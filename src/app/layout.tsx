@@ -12,7 +12,6 @@ const geistMono = Geist_Mono({
   subsets: ["latin"],
 });
 
-// why is this still showing deleted
 
 export const metadata: Metadata = {
   title: "Create Next App",
